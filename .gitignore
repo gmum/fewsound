@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.ipynb_checkpoints/
+.vscode/
+.idea/
+wandb/

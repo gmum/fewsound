@@ -1,0 +1,12 @@
+[tool.black]
+line-length = 119
+target-version = ["py39"]
+
+[tool.isort]
+profile = "black"
+skip_glob = ['.vscode/*', '.idea/*']
+src_paths = ["fewsound"]
+known_first_party=["fewsound", "inr"]
+
+[tool.pyright]
+exclude = ['.vscode/*', '.idea/*']

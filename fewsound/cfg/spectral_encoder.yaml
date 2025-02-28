@@ -1,0 +1,9 @@
+defaults:
+  - settings_schema
+
+
+model:
+  encoder_type: SPECTRAL_ENCODER
+  use_pitch_encoder: True
+  use_loudness_encoder: True
+  use_phoneme_encoder: True

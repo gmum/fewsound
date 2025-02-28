@@ -1,0 +1,7 @@
+name: fewsound
+dependencies:
+  - python=3.9
+  - pip
+  - cudatoolkit=11.3
+  - pip:
+      - -r requirements.txt
