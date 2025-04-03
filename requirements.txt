@@ -48,6 +48,7 @@ cdpam==0.0.6
 pystoi==0.3.3
 pesq==0.0.4
 random-fourier-features-pytorch==1.0.1
+einops==0.8.1
 
 
 # Encoders
